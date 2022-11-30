@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace firstTask.wwwroot.Controllers
+namespace firstTask.Controllers
 {
     public class HomeController : Controller
     {
